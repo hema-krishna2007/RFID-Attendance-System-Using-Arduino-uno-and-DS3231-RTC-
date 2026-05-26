@@ -242,6 +242,14 @@ Scan RFID cards to record attendance.
 - Re-upload the code.
 
 ---
+# 🚀 Future Enhancements
+
+- Add LCD display for live attendance status
+- Store attendance in SD card
+- Send attendance to cloud/database
+- Add Wi-Fi module for online monitoring
+- Export attendance to Excel or CSV
+---
 
 # 💬 Feedback
 
