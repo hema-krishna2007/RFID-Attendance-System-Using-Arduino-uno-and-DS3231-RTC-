@@ -120,14 +120,11 @@ RFID-Attendance-System/
 │   └── RFID_Attendance_System.ino
 │
 ├── images/
-│   ├── circuit.jpg
 │   ├── project_setup.jpg
+│   ├── block_diagram.png
 │   └── output.jpg
 │
-├── README.md
-│
-└── libraries/
-    └── required_libraries.txt
+└── README.md
 ```
 
 ---
