@@ -146,13 +146,14 @@ code/RFID_Attendance_System.ino
 
 # 🖼 Project Images
 
-Add project setup and output images inside the `images` folder.
+The following images are included in the `images` folder:
 
-Example Images:
-- Circuit Diagram
-- Hardware Setup
-- RFID Card Scanning
-- Serial Monitor Output
+- RFID attendance system hardware setup
+- RFID RC522 and DS3231 RTC connections
+- RFID card scanning process
+- Serial Monitor attendance output
+
+Project images help in understanding the circuit connections and working process of the system.
 
 ---
 
